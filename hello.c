@@ -1,6 +1,7 @@
 #include <stdio.h>
+extern void swap(int *x, int *y);
 
-main ()
+int main ()
 {
 	printf("hello world");
 
